@@ -1,2 +1,3 @@
 # assignment4
-cpsc225 class
+This is a test project
+
